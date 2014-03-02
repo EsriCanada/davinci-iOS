@@ -1,4 +1,4 @@
-WatchDog
+WatchDog - On the lookout for severe weather
 ===========
 
 

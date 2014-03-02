@@ -10,3 +10,7 @@ Further underlining the need for WatchDog, recent research from Harvard Universi
 WatchDog uses ambient location, hands-free mobile technology that draws on open weather feeds coming from Environment Canada that refresh every 10 minutes. In addition, the app uses the Multi-Agency Situational Awareness System (MASAS) National Information eXchange for other emergency alerts. Locations of these features are shown against a basemap created using open CanVec topographic data. WatchDog gathers the live feeds, filters them by user location by digitally “fencing” the specific areas of interest, and alerts users of oncoming severe weather events in their vicinity.
 
 **"No Canadian out on the roads can do without this app!"**
+
+##Usage:##
+
+Drive towards one of these [weather events](http://www.arcgis.com/home/webmap/viewer.html?webmap=8c9fd485a1c24ea2af63c77c23d858d4) OR click the 'Test It' and walk 10m away from your current location.

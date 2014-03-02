@@ -13,4 +13,4 @@ WatchDog uses ambient location, hands-free mobile technology that draws on open 
 
 ##Usage:##
 
-Drive towards one of these [weather events](http://www.arcgis.com/home/webmap/viewer.html?webmap=8c9fd485a1c24ea2af63c77c23d858d4) OR click the 'Test It' and walk 10m away from your current location.
+Drive towards one of these [weather events](http://www.arcgis.com/home/webmap/viewer.html?webmap=8c9fd485a1c24ea2af63c77c23d858d4) OR click the 'Test It' button under 'Settings' and walk 10m away from your current location.

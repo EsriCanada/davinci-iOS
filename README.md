@@ -7,7 +7,7 @@
 **“Knowing what’s coming makes all the difference.”** – In **real-time** WatchDog warns you in **advance** of approaching weather conditions using a new breed of hands-free mobile notification technology. Powered by open Federal Government [data](http://www.arcgis.com/home/webmap/viewer.html?webmap=8c9fd485a1c24ea2af63c77c23d858d4), the app helps to reduce the likelihood of weather-related road congestion, accidents, injuries and productivity loss due to adverse weather conditions. 
 
 ##WatchDog solves a problem
-The app aims to prevent incidents such as the 90 vehicle accident on Highway 400 north of Toronto after a snow squall moved through the area on February 27th.
+The app aims to prevent incidents such as the 90-vehicle accident on Highway 400 north of Toronto after a snow squall moved through the area on February 27th.
 
 **"No Canadian out on our roads can do without this app!"**
 ##WatchDog increases productivity

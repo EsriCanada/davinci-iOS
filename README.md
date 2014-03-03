@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")WatchDog - On the lookout for severe weather
+![alt text](https://raw.github.com/EsriCanada/davinci-iOS/master/geotrigger-sample/Images.xcassets/WatchDog_App_Icon_76.imageset/WatchDog_App_Icon_76.png "WatchDog") WatchDog - On the lookout for severe weather
 ===========
 
 ##WatchDog is for all Canadians

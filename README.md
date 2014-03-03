@@ -4,7 +4,7 @@
 
 
 ##WatchDog is for all Canadians
-**“Knowing what’s coming makes all the difference.”** – In **real-time** WatchDog warns you in **advance** of approaching weather conditions using a new breed of hands-free mobile notification technology. Powered by open Federal Government [data](http://arcgis.com/apps/OnePane/basicviewer/index.html?appid=9c669554cfd549658f8550bc28ffa886), the app helps to reduce the likelihood of weather-related road congestion, accidents, injuries and productivity loss due to adverse weather conditions. 
+**“Knowing what’s coming makes all the difference.”** – In **real-time** WatchDog warns you in **advance** of approaching weather conditions using a new breed of hands-free mobile notification technology. Powered by open [Federal Government data](http://arcgis.com/apps/OnePane/basicviewer/index.html?appid=9c669554cfd549658f8550bc28ffa886), the app helps to reduce the likelihood of weather-related road congestion, accidents, injuries and productivity loss due to adverse weather conditions. 
 
 ##WatchDog solves a problem
 The app aims to prevent incidents such as the 90-vehicle accident on Highway 400 north of Toronto after a snow squall moved through the area on February 27th.
@@ -21,4 +21,4 @@ WatchDog uses ambient location, hands-free mobile technology that draws on [open
 Watchdog uses game-changing technology that makes use of [server side scripting](https://github.com/EsriCanada/watchdog/blob/master/watchdog-geotrigger-python.py) to create real-time warning zones around weather events. Known as 'geotriggers' these zones send out alerts when smartphones enter them. Watchdog also provides voice-activated crowd sourcing of weather events from the phone thereby allowing Canadians to create and refine these zones on the fly.
 
 ##WatchDog is 'calm' and easy to use
-Open the app and receive a warning when you drive towards one of these [weather events](http://www.arcgis.com/home/webmap/viewer.html?webmap=8c9fd485a1c24ea2af63c77c23d858d4) OR click the 'Test It' button under 'Settings' and walk 10m away from your current location.
+Open the app and receive a warning when you drive towards one of these [weather events](http://arcgis.com/apps/OnePane/basicviewer/index.html?appid=9c669554cfd549658f8550bc28ffa886) OR click the 'Test It' button under 'Settings' and walk 10m away from your current location.

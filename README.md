@@ -1,5 +1,7 @@
-![alt text](https://raw.github.com/EsriCanada/davinci-iOS/master/geotrigger-sample/Images.xcassets/WatchDog_App_Icon_76.imageset/WatchDog_App_Icon_76.png "WatchDog") WatchDog - On the lookout for severe weather
-===========
+##WatchDog - *"On the lookout for severe weather"*
+![alt text](https://raw.github.com/EsriCanada/davinci-iOS/master/geotrigger-sample/Images.xcassets/WatchDog_App_Icon_76.imageset/WatchDog_App_Icon_76.png "WatchDog") 
+
+
 
 ##WatchDog is for all Canadians
 **“Knowing what’s coming makes all the difference.”** – WatchDog warns you in **advance** of approaching weather conditions using a new breed of hands-free mobile notification technology. Powered by open Federal Government [data](http://data.gc.ca/data/en/dataset/9ff979c5-a307-4224-bbcf-ecfe5a65e828), the app helps to reduce the likelihood of weather-related road congestion, accidents, injuries and productivity loss due to adverse weather conditions. 

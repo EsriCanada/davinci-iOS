@@ -22,7 +22,8 @@ WatchDog uses ambient location, hands-free mobile technology that draws on [open
 
 
 ##WatchDog is innovative
-Watchdog uses game-changing technology that makes use of [server side scripting](https://github.com/EsriCanada/watchdog/blob/master/watchdog-geotrigger-python.py) to create real-time warning zones around weather events. Known as 'geotriggers' these zones send out alerts when smartphones enter them. Watchdog also provides voice-activated crowd sourcing of weather events from the phone thereby allowing Canadians to create and refine these zones on the fly.
+Watchdog uses game-changing technology that makes use of [server side scripting](https://github.com/EsriCanada/watchdog/blob/master/watchdog-geotrigger-python.py) to create real-time warning zones around weather events. Known as 'geotriggers' these zones send out alerts when smartphones enter them. Watchdog also provides voice-activated crowd sourcing of weather events from the phone thereby allowing Canadians to create and refine these zones on the fly **without using a UI**.
+
 ![alt text](https://developers.geoloqi.com/img/diagrams/geofencing.png "Geotrigger")
 
 Source: Geoloqi

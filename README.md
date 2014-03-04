@@ -19,6 +19,9 @@ WatchDog uses ambient location, hands-free mobile technology that draws on [open
 
 ##WatchDog is innovative
 Watchdog uses game-changing technology that makes use of [server side scripting](https://github.com/EsriCanada/watchdog/blob/master/watchdog-geotrigger-python.py) to create real-time warning zones around weather events. Known as 'geotriggers' these zones send out alerts when smartphones enter them. Watchdog also provides voice-activated crowd sourcing of weather events from the phone thereby allowing Canadians to create and refine these zones on the fly.
+![alt text](https://developers.geoloqi.com/img/diagrams/geofencing.png "Geotrigger")
+
+Source: Geoloqi
 
 ##WatchDog is 'calm' and easy to use
 Open the app and receive a warning when you drive towards one of these [weather events](http://arcgis.com/apps/OnePane/basicviewer/index.html?appid=9c669554cfd549658f8550bc28ffa886) OR click the 'Test It' button under 'Settings' and walk 10m away from your current location.

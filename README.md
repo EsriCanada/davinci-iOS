@@ -10,6 +10,10 @@
 The app aims to prevent incidents such as the 90-vehicle accident on Highway 400 north of Toronto after a snow squall moved through the area on February 27th.
 
 **"No Canadian out on our roads can do without this app!"**
+![alt text](https://pbs.twimg.com/media/BhfWrmsIcAAIzou.jpg "WatchDog")
+
+Source: CTV News
+
 ##WatchDog increases productivity
 Further underlining the need for WatchDog, recent research from Harvard University has shown that temperature, precipitation and windstorms can have severe impacts on agricultural output, industrial output, labour productivity, energy demand, health, conflict, and economic growth among other outcomes (Dell et al., 2014). In Canada each year road crashes cost the health care system over $10 billion and result in thousands of fatalities (Andrey et al., 2001). These studies on the climate-economy identify the strong linkages between weather and productivity across different locations and using different types of weather.
 ##WatchDog uses open data
